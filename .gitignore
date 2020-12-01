@@ -1,0 +1,5 @@
+# ignore the Jupyter Notebook
+
+.ipynb_checkpoints
+
+
